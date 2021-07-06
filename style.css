@@ -3,6 +3,34 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(lightsalmon,tomato);
+    display: flex;
+   
+}
+ul li{
+
+}
+ul li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
 h1{
     font-size: 55px;
     line-height: 0.5;
