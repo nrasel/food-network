@@ -1,0 +1,78 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 55px;
+    line-height: 0.5;
+}
+#food-network{
+    display: flex;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%;
+}
+.half-width img{
+    width: 90%;
+}
+.centering-div{
+    margin: auto;
+}
+.centering-div p{
+    font-size: 18px;
+    color: #999;
+}
+.order-button{
+    text-decoration: none;
+    background: linear-gradient(lightsalmon,tomato);
+    padding: 14px 32px;
+    color: white;
+    border-radius: 40px;
+}
+
+
+
+
+
+.about-section{
+    display: flex;
+    margin-top: 60px;
+    padding-top: 50px;
+}
+.about-section{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.about-section .half-width{
+    width: 50%;
+}
+.about-section img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ .about-me{
+    margin: auto;
+ }
+ .about-me p{
+     padding-right: 24%;
+     line-height: 1.7;
+     color: rgb(61, 58, 58);
+     font-size: 17px;
+ }
+
+
+
+
+
+
+
+
+ 
