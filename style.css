@@ -135,6 +135,53 @@ h1{
 
 
 
+
+
+.contact-section{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.contact-section{
+    color: rgb(61, 58, 58);
+}
+.firstname{
+    width: 50%;
+    margin: auto;
+    padding: 12px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+.lastname{
+   width: 50%;
+    margin: auto;
+    padding: 12px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+.email-id{
+    width: 50%;
+    margin: auto;
+    padding: 12px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+.submit-button{
+    width: 14%;
+    padding: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 footer{
     background: black;
     text-align: center;
