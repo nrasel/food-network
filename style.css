@@ -90,28 +90,62 @@ h1{
 }
 
 
- .recipee-item{
+.recipee-item{
      box-shadow: 7px 5px 40px rgb(206, 201, 201);
      width: 70%;
     text-align: center;
      padding: 4%;
      border-radius: 30px;
- }
- .kebab-margin{
+}
+.kebab-margin{
     margin-left: 21%;
- }
- .beef-margin{
+}
+.beef-margin{
      margin-left: 11%;
- }
- .thai-soup-margin{
+}
+.thai-soup-margin{
      margin-right: 11%;
- }
- .recipee-item img{
+}
+.recipee-item img{
      width: 100%;
- }
- .recipee-item p{
+}
+.recipee-item p{
      font-size: 19px;
      line-height: 1.5;
- }
+}
 
  
+
+
+
+.optional-section{
+     display: flex;
+     margin-top: 130px !important;
+     width: 70%;
+     margin: auto;
+     box-shadow: 7px 5px 40px rgb(206, 201, 201);
+     border-radius: 10px;
+}
+.optional-section div h1{
+     line-height: 0;
+}
+.optional-section div{
+     margin: 5px 84px;
+}
+
+
+
+footer{
+    background: black;
+    text-align: center;
+    padding: 60px 0;
+    margin-top: 70px;
+}
+.footer-heading{
+    color: white;
+}
+
+.helathy{
+    color: rgb(183, 178, 187);
+}
+
